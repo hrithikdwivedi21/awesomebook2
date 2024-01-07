@@ -1,0 +1,32 @@
+{
+    "Products": [{
+            "id": 1,
+            "name": "Iphone 11",
+            "price": "₹39,999",
+            "desc": "Iphone 11 at best price . Offer closes soon!!",
+            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-71078779,imgsize-200,width-1200/71078779.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 12",
+            "price": "₹49,999",
+            "desc": "Iphone 12 at best price . Offer closes soon!!",
+            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-71446518,imgsize-200,width-1200/71446518.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Iphone 13",
+            "price": "₹59,999",
+            "desc": "Iphone 13 at best price . Offer closes soon!!",
+            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-79058673,imgsize-200,width-1200/79058673.jpg"
+        },
+      {
+        "id": 4,
+        "name": "Iphone 14",
+        "price": "₹89,999",
+        "desc": "Iphone 14 at best price . Offer closes soon!!",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-compare-iphone-14-pro-202209_FMT_WHH?wid=240&hei=330&fmt=jpeg&qlt=90&.v=1661471046076"
+      }
+
+    ]
+}
